@@ -2,3 +2,7 @@
 This is a repository of self-worked example code for learning to code.
 
 ## List of Learning Materials
+
+### React
+
+#### [Pure React](https://daveceddia.com/pure-react/) by Dave Ceddia
